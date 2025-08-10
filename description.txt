@@ -3,7 +3,7 @@ She has been tested in multiplayer and should work decently there.
 
 Credits to the following individuals for helping (whether directly or indirectly) in the creation of the mod:
 
-Programming: Dominic Karma
+Programming: Lucille Karma
 Music: Phyrnna
 Artwork: Myra
 Testing and Quality Assurance: Blast, LGL, Lynel, SomeSnakeOilSalesman
